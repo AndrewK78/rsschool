@@ -1,1 +1,1 @@
-Thi is first file
+<https://github.com/AndrewK78/rsschool>
